@@ -1,4 +1,10 @@
 [submodule "libbpf"]
 	path = libbpf
-	url = git@github.com:libbpf/libbpf.git
+	url = https://github.com/libbpf/libbpf.git
 	branch = master
+[submodule "02-stats/libbpf"]
+	path = 02-stats/libbpf
+	url = https://github.com/libbpf/libbpf.git
+[submodule "lab/libbpf"]
+	path = lab/libbpf
+	url = https://github.com/libbpf/libbpf.git
